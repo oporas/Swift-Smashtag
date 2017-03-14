@@ -54,14 +54,22 @@
 		AA252C6C1E78489F008929FB /* Smashtag */ = {
 			isa = PBXGroup;
 			children = (
-				AA252C6D1E78489F008929FB /* AppDelegate.swift */,
+				AA252C7F1E7848BB008929FB /* supporting files */,
 				AA252C6F1E78489F008929FB /* ViewController.swift */,
 				AA252C711E78489F008929FB /* Main.storyboard */,
-				AA252C741E78489F008929FB /* Assets.xcassets */,
-				AA252C761E78489F008929FB /* LaunchScreen.storyboard */,
 				AA252C791E78489F008929FB /* Info.plist */,
 			);
 			path = Smashtag;
+			sourceTree = "<group>";
+		};
+		AA252C7F1E7848BB008929FB /* supporting files */ = {
+			isa = PBXGroup;
+			children = (
+				AA252C6D1E78489F008929FB /* AppDelegate.swift */,
+				AA252C741E78489F008929FB /* Assets.xcassets */,
+				AA252C761E78489F008929FB /* LaunchScreen.storyboard */,
+			);
+			name = "supporting files";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
